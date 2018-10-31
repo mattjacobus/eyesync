@@ -3,7 +3,8 @@ var $ = document.querySelector.bind(document);
 var sync = true;
 var canvasSize = 4200.0;
 #var host = "192.168.1.7"
-var host = "172.20.10.1"
+#var host = "172.20.10.1"
+var host = "100.25.254.118"
 /*
 * p1 1, 21.0 
 * p2 24.5, 3.0
